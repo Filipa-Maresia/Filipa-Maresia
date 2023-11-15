@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Filipa-Maresia
-- 👀 I’m interested in ... Animals, health, sports and reading.
+- 👀 I’m interested in ... Animals, astronomy, history, sports and reading.
 - 🌱 I’m currently learning ... full-stack web programming.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
