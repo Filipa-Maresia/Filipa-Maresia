@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Filipa-Maresia
+- 👋 Hi, I’m @Filipa-Mendes
 - 👀 I’m interested in ... Animals, astronomy, history, sports and reading.
 - 🌱 I’m currently learning ... full-stack web programming.
 - 💞️ I’m looking to collaborate on ...
