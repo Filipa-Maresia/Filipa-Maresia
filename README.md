@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Filipa-Mendes
-- 👀 I’m interested in ... Animals, astronomy, history, sports and reading.
-- 🌱 I’m currently learning ... full-stack web programming.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 👀 I’m interested in: Animals, astronomy, history, sports and reading.
+- 🌱 I’m currently learning: full-stack web programming
+
+
 
 <!---
 Filipa-Maresia/Filipa-Maresia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
